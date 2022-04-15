@@ -5,10 +5,17 @@
 🎤 Speaker (dev tooling, cloud, community) and host
 🎥 If Premiere doesn't crash, I'm probably editing videos or animations. I'm creative.
 
-What am I up to:
+What am I up to now:
 * With an amazingly fun team, I organize contributing today, an Open Source Meetup: <a href="https://contributing.today">https://contributing.today</a>
 * Talking about fun.. There's a great Backstage community. Check out the meetup I'm running: <a href="https://backstage.io/on-demand">https://backstage.io/on-demand</a>
 * Conference stuff (I'm not good at self-marketing, I know)
+
+What I was up to earlier
+* Organizing + Hosting - Virtual Azure Community Day <a href="https://azureday.community/">https://azureday.community/</a>
+* Organizing + Hosting + Graphics - FTWConf <a href="https://www.ftwconf.com/">https://www.ftwconf.com/</a>
+* Organizing + Creating workshops, eg. https://terraform-on-azure-workshop.github.io/, GitHub-Coding-Challenge.github.io 
+* Delivering workshops at enterprise customers, Microsoft Developer events, Microsoft Partners
+* Speaking at: TEQNation, React Summit, Azure Live, J-Fall, NLUUG
 
 
 <div id="badges">
