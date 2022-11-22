@@ -18,6 +18,7 @@
   <a href="https://twitter.com/suushier">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a rel="me" href="https://fedi.suuu.us/@suzanne">Mastodon</a>
 </div>
 
 ## Okay, great.. But what about Backstage?
