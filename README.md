@@ -2,7 +2,7 @@
 
 ## Hiya 🙋🏻‍♀️, I'm Suzanne!
 
-🏢 I work in Developer Relations, currently for the Port, a no-code developer portal (<a href="https://getport.io">https://getport.io</a>).
+🏢 Developer Experience, Partner & Customer Technology Advisor, Developer Relations, Product Marketing
 ♥️ Organizing conferences and meetups
 🎤 Speaker (dev tooling, cloud, community) and host
 🎥 If Premiere doesn't crash, I'm probably editing videos or animations. I'm creative.
